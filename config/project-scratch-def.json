@@ -1,0 +1,12 @@
+{
+	"country": "FR",
+	"edition": "Developer",
+	"language": "fr",
+	"settings": {
+		"orgPreferenceSettings": {
+			"s1DesktopEnabled": true
+		}
+	},
+	"orgName": "Your Company",
+	"adminEmail": "firstname.lastname@devoteam.com"
+}
